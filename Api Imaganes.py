@@ -1,3 +1,8 @@
+#Autores: Juan David Cano y David Estiven Alvear
+#Programa: Api Imagenes.py
+#Descripcion: Este progarma consulta y descarga place holder de imagenes de la pagina lorempixel.com
+#Fecha: 15/06/2017 3:30 PM
+
 from urllib2 import urlopen
 
 url= "http://lorempixel.com"
